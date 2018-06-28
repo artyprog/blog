@@ -1,6 +1,10 @@
 {
 	"collection": [
 		{
+			"posttitle": "Third Post",
+			"postcontent": "TESTT hjhjgjhgjh"
+		},
+		{
 			"posttitle": "Second Post",
 			"postcontent": "Secong"
 		},
